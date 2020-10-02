@@ -3,6 +3,13 @@ ArrayList<Point> linedPoints = new ArrayList<Point>();
 int line = 0;
 boolean drawMode = true;
 
+ArrayList<Particle> particles = new ArrayList<Particle>();
+int pixelSteps = 9; // Amount of pixels to skip
+ArrayList<String> words = new ArrayList<String>();
+int wordIndex = 0;
+color bgColor = color(255, 100);
+String fontName = "Arial Bold";
+
 class Point
 {
   PVector pos = new PVector(0, 0);
@@ -137,12 +144,9 @@ void mousePressed() {
   }
 }
 
-ArrayList<Particle> particles = new ArrayList<Particle>();
-int pixelSteps = 9; // Amount of pixels to skip
-ArrayList<String> words = new ArrayList<String>();
-int wordIndex = 0;
-color bgColor = color(255, 100);
-String fontName = "Arial Bold";
+
+
+
 
 class Particle {
   PVector pos = new PVector(0, 0);
