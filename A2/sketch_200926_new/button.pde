@@ -15,7 +15,7 @@ class button {
     y = Y;
 
     w = 100;
-    h = 50;
+    h = 100;
 
     txt = t;
 
