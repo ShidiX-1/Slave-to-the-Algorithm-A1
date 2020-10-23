@@ -25,3 +25,6 @@ However, I hope Glimmer is an installation that everyone could have access to an
 
 
 ![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/Week%205-6/week%205-6/WeChat%20Screenshot_20200924195559.png)
+
+After the pitch, we have learned about how to use sound to make visual interact. We made a cycle changes with the volume of the music. Moreover, we also talked about how could we develop our pitch to a real outcome. To begin with, find out what is the input and what is output.
+For my one, the input should be text. The output is the visual effect.
