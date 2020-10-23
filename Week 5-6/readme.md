@@ -23,4 +23,5 @@ lastly, when I realize that when I started to develop this idea. I hope this cou
 However, I hope Glimmer is an installation that everyone could have access to and through straightforward content, people will feel better even just when they see it.
 
 
+
 ![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/Week%205-6/week%205-6/WeChat%20Screenshot_20200924195559.png)
