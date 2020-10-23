@@ -1,1 +1,1 @@
-# Slave-to-the-Algorithm-A1
+# Slave-to-the-Algorithm
