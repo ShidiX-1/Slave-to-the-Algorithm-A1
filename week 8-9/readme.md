@@ -25,5 +25,4 @@ END IF
 ![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/week%208-9/Week%208-9/WeChat%20Screenshot_20200925141434.png)
 
 ![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/week%208-9/Week%208-9/127.0.0.1_8100%20-%20Profile%201%20-%20Microsoft%E2%80%8B%20Edge%2010_23_2020%206_54_49%20PM.png)
-![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/week%208-9/Week%208-9/127.0.0.1_8375%20-%20Profile%201%20-%20Microsoft%E2%80%8B%20Edge%2010_23_2020%206_54_01%20PM.png
-week 10-12)
+![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/week%208-9/Week%208-9/127.0.0.1_8375%20-%20Profile%201%20-%20Microsoft%E2%80%8B%20Edge%2010_23_2020%206_54_01%20PM.png)
