@@ -1,5 +1,5 @@
 # Week 10-12
-![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/week%208-9/Week%208-9/WeChat%20Screenshot_20200925141434.png)
+![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/week%2010-12/week%2010%20-12/new13%2010_15_2020%2010_11_45%20PM.png)
 
 ![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/week%2010-12/week%2010%20-12/new13%2010_15_2020%2010_12_02%20PM.png)
 
