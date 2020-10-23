@@ -1,5 +1,8 @@
 # Week 2
 
+![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/week%202/week%202%20(1).jpg)
+![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/week%202/week%202%20(2).jpg)
+![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/week%202/week%202-1.jpg)
 ![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/week%202/WeChat%20Screenshot_20200924200752.png)
 ![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/week%202/a64ef42b28fd341ef5d70125879f5d8.png)
 
