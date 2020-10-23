@@ -1,6 +1,6 @@
 # Case study
 
-![image]https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/Case%20study/sko/case%20study.jpg
+![image](https://github.com/ShidiX-1/Slave-to-the-Algorithm-A1/blob/master/Case%20study/sko/case%20study.jpg)
 Kunhao Lin is an artist that I liked very much. He often uses digital work to express a different side of the world. X’Diptera is a project that uses algorithmic to generate the possible texture of butterfly. To be honest, I didn’t get what is the point of this at first. It to me just beautiful visual artwork, But somehow I keep curious about what could be next butterfly look like? That’s where I realise that’s the whole point. As a human, we interested pretty much about everything. We care about from the smallest cell to galaxies that are light-years away. Some of us spend a lifetime to prove an equation. Some of us putting continuous training to be able to control every muscle in their body. What is the point of that? For others who are not in their area wouldn’t even think about the matter. 
 This project has made me surprised by how someone could start with a simple idea to such fantastic work. The literary quotation the artist has talked in his statement has brought back the question What can’t algorithms do? It takes Nanke a dream to have another life, and with coding, it only takes enough data to make people endless dream. Moreover, I also interested in the way he combines those culture and poetic quotation into his work.
 
