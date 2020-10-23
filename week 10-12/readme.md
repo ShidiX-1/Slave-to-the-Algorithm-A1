@@ -1,5 +1,6 @@
 # Week 10-12
 
+We have been keeping improve our project from week 10.
 
 # My goals 
 
